@@ -315,8 +315,6 @@ class User_Interaction:
         else:
             receipt_item = f" {x}. {green}{chosen_recipe[0]}{default} ({size_str})"
             receipt_txt = receipt_txt + f"{receipt_item:<58}{size_total:.2f}\n      {chosen_recipe[1]:<10}\t  Qty: {pump:.0f}    {pump_total:.2f}\n      {"espresso shots":<10}\t  Qty: {shot:.0f}    {shot_total:.2f}\n      {"cream":<10}\t  Qty: {creamer:.0f}    {creamer_total:.2f}\n      {"sugar":<10}\t  Qty: {sugar:.0f}    {sugar_total:.2f}\n\t\t\t\t\t  {orange}{subtotal:>5.2f}{default}\n"
-        # return_lst = [receipt_txt, subtotal]
-        # return return_lst
         return [
             receipt_txt,
             subtotal
@@ -538,7 +536,6 @@ class User_Interaction:
                             size = 1
                         size == int(size) # ensure size is an integer
                         size = float(size) # change to float for math
-                        print(size, chosen_recipe)
                         prepared_receipt = self.prepare_receipt(x, receipt_txt, chosen_recipe, size)
                         receipt_txt = prepared_receipt[0]
                         subtotal = prepared_receipt[1]

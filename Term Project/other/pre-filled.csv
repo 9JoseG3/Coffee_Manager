@@ -1,0 +1,99 @@
+name,flavor,pumps,roast,shots,creamer,sugar,iced
+Caramel Cloud Latte,Caramel,3,Light,1,TRUE,TRUE,FALSE
+Midnight Macchiato,Mocha,2,,1,FALSE,FALSE,FALSE
+Who Needs Amphetamines ,,,Medium,,TRUE,FALSE,TRUE
+Polar Mint ,Peppermint,1,Dark,,TRUE,FALSE,FALSE
+Golden Drizzle Latte,Caramel,3,,,TRUE,FALSE,TRUE
+Campfire Sweet ,Marshmallow,2,,,FALSE,TRUE,TRUE
+Autumn Glow ,Pumpkin Spice,4,,2,FALSE,TRUE,TRUE
+"Hit Me Baby, One S'more Time",Marshmallow,3,Light,,TRUE,TRUE,FALSE
+Choccy Milk,Mocha,2,Medium,,TRUE,TRUE,FALSE
+Nutter Butter,Hazelnut,1,,1,FALSE,TRUE,TRUE
+Cookie Jar Macchiato,Cookie Dough,3,,,TRUE,TRUE,TRUE
+Espresso Royale ,,,,5,TRUE,FALSE,FALSE
+Creamy Vanilla Swirl ,French Vanilla,5,,,FALSE,FALSE,TRUE
+Harvest Spice ,Pumpkin Spice,2,,,TRUE,TRUE,TRUE
+Dark Chocolate Dream Macchiato,Mocha,4,Dark,1,TRUE,TRUE,FALSE
+Vanilla Bean Mist ,French Vanilla,5,Light,,TRUE,TRUE,TRUE
+Toffee Delight Latte,Caramel,2,,,FALSE,FALSE,TRUE
+Spiced Pumpkin King ,Pumpkin Spice,1,,,TRUE,TRUE,FALSE
+Arctic Chill ,Peppermint,3,Dark,,TRUE,TRUE,TRUE
+Dunker,Cookie Dough,1,,,TRUE,FALSE,TRUE
+The Chocolate Classic ,Mocha,2,,2,TRUE,FALSE,FALSE
+Butterscotch Silk ,Caramel,3,,,FALSE,TRUE,FALSE
+Legal Crack,,,,,TRUE,FALSE,FALSE
+Smoky Embers Latte,Marshmallow,3,Dark,,FALSE,FALSE,FALSE
+Deez Nutz,Hazelnut,4,,3,FALSE,FALSE,FALSE
+Marshmallow Fluff Macchiato,Marshmallow,2,Dark,,TRUE,TRUE,TRUE
+I Can't Believe it's Not Salmonella,Cookie Dough,2,,,FALSE,TRUE,FALSE
+Vanilla Bean Day Dream,French Vanilla,4,Medium,3,FALSE,TRUE,TRUE
+"Vailla Ice, Ice Baby",French Vanilla,6,Medium,,TRUE,FALSE,TRUE
+This'll Fudge You Up,Mocha,3,,,TRUE,TRUE,FALSE
+Bonfire Bliss ,Marshmallow,2,Light,,TRUE,TRUE,TRUE
+Gingerbread Delight ,Pumpkin Spice,2,,,FALSE,TRUE,TRUE
+Spice Girls,Pumpkin Spice,4,,,FALSE,FALSE,TRUE
+I Want a Lawyer,,,,,TRUE,TRUE,FALSE
+The Choc-Blocker,Mocha,3,,2,FALSE,FALSE,FALSE
+French Kiss Vanilla ,French Vanilla,4,,,TRUE,TRUE,TRUE
+The Fall MVP,Pumpkin Spice,3,Medium,,TRUE,TRUE,TRUE
+Afterglow Delight ,Marshmallow,3,,1,FALSE,FALSE,TRUE
+You Choco-Lot of Smack,Mocha,3,Dark,1,FALSE,TRUE,FALSE
+The Daily Grind,,,,,TRUE,TRUE,FALSE
+Cookie Crunch,Cookie Dough,4,,,FALSE,TRUE,FALSE
+Golden Nugget ,Caramel,2,Medium,,TRUE,TRUE,TRUE
+Fluff,Marshmallow,4,,,FALSE,FALSE,TRUE
+Mint Julep ,Peppermint,3,,2,TRUE,TRUE,FALSE
+"January Embers, My Heart Burns There Too",Marshmallow,5,Light,,FALSE,TRUE,TRUE
+Caramel Apple Bite Macchiato,Caramel,6,Dark,,FALSE,FALSE,TRUE
+It's a Brewtiful Day!,,,Dark,,TRUE,TRUE,FALSE
+Silken Vanilla ,French Vanilla,2,,3,TRUE,TRUE,TRUE
+Praline Dream ,Hazelnut,5,,2,FALSE,FALSE,TRUE
+Toasty Treat ,Marshmallow,3,Medium,,FALSE,TRUE,FALSE
+Draw Me Like One of Your French Girls,French Vanilla,2,,,TRUE,TRUE,FALSE
+Gooey Goodness ,Cookie Dough,1,,,TRUE,TRUE,FALSE
+Roasted Hazel ,Hazelnut,4,Light,1,TRUE,FALSE,FALSE
+Guilty Pleasure,Cookie Dough,2,,,TRUE,FALSE,TRUE
+S'mores Base ,Marshmallow,2,,1,FALSE,TRUE,TRUE
+October Delight ,Marshmallow,3,,1,FALSE,FALSE,TRUE
+Mocha Choca Latte,Mocha,2,Dark,,TRUE,FALSE,FALSE
+Grandma's Purse Werther's,Caramel,1,Light,,FALSE,FALSE,FALSE
+Grown-Up Hot Cocoa,Mocha,1,Medium,1,TRUE,TRUE,FALSE
+Candied Caramel ,Caramel,2,,2,FALSE,TRUE,FALSE
+Elegant Vanilla ,French Vanilla,2,Light,,FALSE,FALSE,TRUE
+Life is What You Bake It,Cookie Dough,3,,,,,
+Flickering Flame ,Marshmallow,1,,,FALSE,TRUE,FALSE
+Velvet Mocha ,Mocha,2,,3,TRUE,FALSE,TRUE
+Cinnamon Hearth ,Pumpkin Spice,3,Light,2,TRUE,TRUE,TRUE
+Liquid Gold ,Caramel,4,,1,TRUE,FALSE,TRUE
+Cafe con Tu Madre,,,,,FALSE,TRUE,FALSE
+Sweet Creme ,French Vanilla,5,,,TRUE,TRUE,FALSE
+Mocha Masterpiece Latte,Mocha,3,Dark,,FALSE,FALSE,TRUE
+Caramel Kiss Latte,Caramel,2,Light,2,FALSE,FALSE,TRUE
+Creme de Paris ,French Vanilla,3,,,FALSE,FALSE,FALSE
+Dark Roast Treat ,Marshmallow,4,Dark,,TRUE,FALSE,FALSE
+Cocoa Infusion ,Mocha,2,,1,TRUE,FALSE,FALSE
+Sugar Rush Latte,Caramel,2,,,TRUE,FALSE,FALSE
+Spice Bazaar ,Pumpkin Spice,1,Light,,FALSE,TRUE,TRUE
+The Chocolate Cure Macchiato,Mocha,4,,2,TRUE,FALSE,TRUE
+Liquid Sanity,,,,,TRUE,TRUE,FALSE
+Diet Starts Tomorrow,Cookie Dough,1,,,TRUE,FALSE,FALSE
+Caramelatte,Caramel,1,Medium,,TRUE,TRUE,FALSE
+Classic French ,French Vanilla,3,Light,,FALSE,FALSE,FALSE
+Ember Marshmallow ,Marshmallow,2,,1,TRUE,TRUE,TRUE
+"Sugar, Spice, and Everything Nice",Pumpkin Spice,5,,,TRUE,TRUE,FALSE
+Vanilla Velvet Latte,French Vanilla,3,Dark,,FALSE,FALSE,TRUE
+Double Chocolate ,Mocha,1,,,TRUE,FALSE,FALSE
+Campfire Glow ,Marshmallow,3,,2,TRUE,FALSE,TRUE
+Smooth Vanilla ,French Vanilla,2,Medium,,FALSE,TRUE,FALSE
+Coffee Day Dream,,,,1,TRUE,TRUE,TRUE
+The Nutcracker ,Hazelnut,4,,,TRUE,FALSE,TRUE
+Smoky Cloud ,Marshmallow,2,,,TRUE,TRUE,TRUE
+Harvest Cheer ,Pumpkin Spice,6,Light,,FALSE,TRUE,FALSE
+Sweet Bonfire Macchiato,Marshmallow,2,Dark,3,FALSE,FALSE,TRUE
+Nap in a Cup,,,,,FALSE,TRUE,TRUE
+Peppermint Patty ,Peppermint,3,Medium,,TRUE,TRUE,TRUE
+Candy Cane Swirl Latte,Peppermint,2,,,TRUE,TRUE,FALSE
+Brownie Batter Boost,Mocha,1,Light,,FALSE,FALSE,TRUE
+The Nutty Professor Latte,Hazelnut,2,,,FALSE,FALSE,FALSE
+Vanilla Creme ,French Vanilla,1,,2,TRUE,FALSE,FALSE
+Roasted Nut Latte,Hazelnut,2,Medium,,TRUE,TRUE,TRUE
